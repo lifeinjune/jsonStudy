@@ -1,0 +1,10 @@
+{
+    "name":"Junseok Hong", 
+    "age":28,
+    "address":{
+        "street":"24 kale st",
+        "city":"Success"
+    },
+    "family":["Deoksun Hong","Jeong-Im Cho","Hyeon-seok Hong"]
+
+}

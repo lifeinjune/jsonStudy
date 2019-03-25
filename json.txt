@@ -1,0 +1,20 @@
+* JSON file is the format the send the data back and forth from RESTful API
+* JavaScript Object Notation
+* Lightweight data-interchange format from to server
+* based on JavaScript
+* Easy to read and write
+* often used with AJAX and replace the XML. AJAX send the data back and forth from client and server without refresh the page
+* JSON can be parsed to any modern languages by nativly or through library
+* Data types
+    * Number: int and float
+    * Strings: in ""
+    * Boolean : trun and false
+    * Array: start from 0
+    * object: collection of key/value pairs
+    * Null: Empty value
+* For JSON file need to be in one of the data type above
+* Syntax: 
+    * name and key pair: {"name":"Jun"}
+    * must be in "" both key and value
+    * .json
+    * MIME type (way to identify file type on the internet) is "Application/json"
